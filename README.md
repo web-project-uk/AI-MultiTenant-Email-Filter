@@ -27,4 +27,7 @@
 2.  **Latency:** Classification time is reduced from ~5 seconds to ~1–2 seconds per email, significantly lowering the risk of SMTP timeouts.
 3.  **Prompt Engineering:** The script now utilizes the specific Phi-3 chat template (`<|user|>...<|end|>\n<|assistant|>`), which ensures the model adheres strictly to the classification instruction without unnecessary conversational filler.
 
-This solution is now optimised for cost-efficiency and performance while retaining the multi-tenant architecture you require.
+### Need additional help or service
+
+For software development or hosting services, visit us at: https://www.web-project.co.uk/This solution is now optimised for cost-efficiency and performance while retaining the multi-tenant architecture you require.
+
